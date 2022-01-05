@@ -1,4 +1,11 @@
-### Hi! I'm Xiankleber  👋
+### Hi! I'm Xiankleber  👋 Welcome to my Profile!!!
+I am a Phd in electrical and computer engineering, teaching and working with web development using the javascript stack. 
+
+- 🔭 I’m currently working Teacher and JavaScript Full Stack Developer 
+- 🌱 I’m currently learning Nodesjs,Remix and Nextjs
+- 💬 Ask me about Javascript,typescript,predictive control.computer vision e Software Engineering. 
+- 😄 Pronouns: He/His
+
 
 <div>
   <a href="https://github.com/Xiankleber">
@@ -22,10 +29,12 @@
   
 #### Follow me on my social networks:
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=white&link=https://github.com/Xiankleber)](https://github.com/Xiankleber)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/xiankleber-c-benjamim-878b5621/
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/in/xiankleber-c-benjamim-878b5621/
 )](linkedin.com/in/xiankleber-c-benjamim-878b5621//)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com//Xiankleber)](https://twitter.com//Xiankleber)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white=https://twitter.com//Xiankleber)](https://twitter.com//Xiankleber)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white//github.com/Xiankleber)](https://github.com/Xiankleber)
+[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white//https://codepen.io/xiankleber)](https://codepen.io/xiankleber)
 
   
  
