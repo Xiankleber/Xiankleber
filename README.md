@@ -37,6 +37,7 @@ I am a Phd in electrical and computer engineering, teaching and working with web
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white=https://twitter.com//Xiankleber)](https://twitter.com//Xiankleber)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white//github.com/Xiankleber)](https://github.com/Xiankleber)
 [![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white//https://codepen.io/xiankleber)](https://codepen.io/xiankleber)
+ [![Hackerrank Badeg](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white//https://www.hackerrank.com/xianklebercb)](https://www.hackerrank.com/xianklebercb)
 
   
  
