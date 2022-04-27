@@ -25,8 +25,8 @@ I am a Phd in electrical and computer engineering, teaching and working with web
   <img align="center" alt="js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="js" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black" />
-  <img align="center" alt="js" src= "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img align="center" alt="js" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+
+  
  
   
   
@@ -34,7 +34,7 @@ I am a Phd in electrical and computer engineering, teaching and working with web
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/in/xiankleber-c-benjamim-878b5621/
-)](linkedin.com/in/xiankleber-c-benjamim-878b5621//)
+)](linkedin.com/in/xiankleber-c-benjamim-878b5621)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white//github.com/Xiankleber)](https://github.com/Xiankleber)
 [![Hackerrank Badeg](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white//https://www.hackerrank.com/xianklebercb)](https://www.hackerrank.com/xianklebercb)
 
