@@ -24,7 +24,7 @@ Sou PhD em Engenharia Elétrica, leciono e trabalho com desenvolvimento web e mo
   <img align="center" src="https://img.shields.io/badge/-Xiankleber-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/xiankleber" target="_blank">
+<a href="https://linkedin.com/in/xiankleber-c-benjamim-878b5621/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Xiankleber-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.hackerrank.com/xianklebercb" target="_blank">
