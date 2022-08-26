@@ -7,7 +7,7 @@
 
 Sou PhD em Engenharia Elétrica, leciono e trabalho com desenvolvimento web e mobile.
 
-- 🔭 Atualmente trabalho como Professor e Desenvolvedor Full Stack
+- 🔭 Atualmente trabalho como Professor e Desenvolvedor Mobile
 - 🌱 Atualmente estudo e trabalho com Nodesjs e React Native
 - 💬 Pergunte-me sobre Engenharia de Software, Desenvolvimento Web e Mobile
 - 😄 Pronouns: He/His
