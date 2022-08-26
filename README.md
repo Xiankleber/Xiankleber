@@ -39,6 +39,7 @@ Sou PhD em Engenharia Elétrica, leciono e trabalho com desenvolvimento web e mo
  
 ###
 
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
